@@ -1,4 +1,4 @@
-
+# Lab7
 ### step4
 I logged into my account by typing out the command ```ssh cs15lwi23afy@ieng6.ucsd.edu``` and then hit the key ```<enter>```.
 ![Image](step1.png) 
